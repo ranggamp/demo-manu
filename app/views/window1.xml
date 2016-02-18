@@ -1,0 +1,6 @@
+<Alloy>
+	<View class="container">
+		<Button title="WINDOW 2" onClick="does" top="10"></Button>
+		<Label> window 1</Label>
+	</View>
+</Alloy>

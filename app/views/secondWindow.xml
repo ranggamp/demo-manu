@@ -1,0 +1,5 @@
+<Alloy>
+	<View backgroundColor="yellow">
+	  <Label text="New View" />
+	</View>
+</Alloy>

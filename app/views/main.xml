@@ -1,0 +1,6 @@
+<Alloy>
+    <View>
+    	<Button title="SUBMIT" onClick="does" top="10"></Button>
+        <Label text="MAIN" />
+    </View>
+</Alloy>
