@@ -27,7 +27,11 @@ function init() {
 
 }
 function does(){
-	Alloy.Globals.open(Alloy.createController('window2'),true);
+	var win2 = Ti.UI.createWindow();
+	var win2 = Alloy.createController('window2').getView();
+	//Ti.UI.Window.open(Alloy.createController('window2'));
+	//Alloy.Globals.open(Alloy.createController('window2'),true);
+	win2.open();
 }
 
 // PUBLIC

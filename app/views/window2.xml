@@ -1,5 +1,7 @@
 <Alloy>
+	<Window platform="android" onOpen="onOpen" onAndroidback="onBack" id="win2">
 	<View class="container">
 		<Label> window 2</Label>
 	</View>
+	</Window>
 </Alloy>
